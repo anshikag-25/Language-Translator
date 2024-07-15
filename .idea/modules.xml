@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Language-Translator.iml" filepath="$PROJECT_DIR$/.idea/Language-Translator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anshika2.iml" filepath="$PROJECT_DIR$/anshika2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/anshika2_android.iml" filepath="$PROJECT_DIR$/android/anshika2_android.iml" />
     </modules>
   </component>
 </project>
